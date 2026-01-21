@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Anas Al-Haj
+🎓 Computer Science student | 💻 Software Developer | 🧠 Analytical pioneer
+📍 Palestine
 
-<!--
-**anashijjawe/anashijjawe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+Computer Science student passionate about **software development**, **problem solving**, and **data analysis**.  
+I enjoy building practical systems, teaching algorithmic thinking, and writing clean, scalable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve worked on multiple **JavaFX desktop applications**, **database-driven systems**, and led a **competitive programming community (GDG Solvers)**.
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** Java, C++, Python, SQL  
+- **Data:** Pandas, NumPy, Matplotlib, Data Cleaning & Analysis  
+- **Tools:** JavaFX, MySQL,   
+- **Certified from DataCamp**
+
+---
+
+## 🏗️ Projects
+- **Warehouse Management System** – JavaFX, data-structures 
+- **Cafe Management System** – Java - MySql
+- **Dictionary & Translation App** – JavaFX, data-structures 
+
+---
+
+## 👥 Community
+- Founder & Trainer – **Problem Solving Community**
+- Technical Team Member – **GDG on Campus**
+- Bootcamp trainer & event organizer
+
+---
+
+## 📫 Connect
+- **LinkedIn:** https://www.linkedin.com/in/anas-hijjawe  
+- **Email:** anasalhaj420@gmail.com
+
+⭐ *Good code doesn’t just work — it teaches.*
