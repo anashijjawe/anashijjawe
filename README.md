@@ -21,7 +21,7 @@ I’ve worked on multiple **JavaFX desktop applications**, **database-driven sys
 ---
 
 ## 👥 Community
-- Founder & Trainer – **Problem Solving Community**
+- Founder & Trainer – **Problem Solving Community** **(GDG Solvers)**
 - Technical Team Member – **GDG on Campus**
 - Bootcamp trainer & event organizer
 
