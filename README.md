@@ -20,13 +20,6 @@ I’ve worked on multiple **JavaFX desktop applications**, **database-driven sys
 
 ---
 
-## 🏗️ Projects
-- **Warehouse Management System** – JavaFX, data-structures 
-- **Cafe Management System** – Java - MySql
-- **Dictionary & Translation App** – JavaFX, data-structures 
-
----
-
 ## 👥 Community
 - Founder & Trainer – **Problem Solving Community**
 - Technical Team Member – **GDG on Campus**
