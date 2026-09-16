@@ -30,4 +30,3 @@ I’ve worked on multiple **JavaFX desktop applications**, **database-driven sys
 - **LinkedIn:** https://www.linkedin.com/in/anas-hijjawe  
 - **Email:** anasalhaj420@gmail.com
 
-⭐ *Good code doesn’t just work — it teaches.*
